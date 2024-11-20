@@ -62,7 +62,8 @@ Local Testing: Use the Vite development server to test changes in real-time.
 Build for Production:
  ```bash 
 npm run build
-'''
+```
+
 Deployment: Follow instructions to deploy on hosting platforms like Netlify, Vercel, or AWS.
 
 
